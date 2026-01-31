@@ -1,0 +1,239 @@
+🔹 1️⃣ Networking Fundamentals (Must-Know Core)
+
+These are non-negotiable for cybersecurity.
+
+What is a Network?
+
+Types of Networks: LAN, WAN, MAN, PAN
+
+Client–Server vs Peer-to-Peer
+
+Bandwidth, Latency, Throughput, Jitter
+
+Network Devices:
+
+Hub vs Switch vs Router
+
+Firewall
+
+IDS / IPS
+
+Proxy
+
+Load Balancer
+
+🔹 2️⃣ OSI & TCP/IP Models (VERY IMPORTANT)
+
+Hackers think in layers.
+
+OSI Model (7 Layers)
+
+Physical
+
+Data Link
+
+Network
+
+Transport
+
+Session
+
+Presentation
+
+Application
+👉 Attacks mapped to layers (e.g., ARP spoofing = Layer 2)
+
+TCP/IP Model
+
+Network Interface
+
+Internet
+
+Transport
+
+Application
+👉 Real-world implementation
+
+🔹 3️⃣ IP Addressing & Subnetting (OSCP Favorite)
+
+This breaks many beginners — conquer it 💪
+
+IPv4 structure
+
+Public vs Private IP
+
+IPv6 basics (important!)
+
+CIDR notation
+
+Subnetting & Supernetting
+
+Network ID, Broadcast IP
+
+NAT (SNAT, DNAT)
+
+APIPA (169.254.x.x)
+
+🔹 4️⃣ Core Protocols (Attack Surface)
+
+Know how they work + how they break.
+
+Transport Layer
+
+TCP vs UDP
+
+3-Way Handshake
+
+TCP Flags (SYN, ACK, FIN, RST, PSH, URG)
+
+Port numbers & services
+
+Application Layer
+
+HTTP / HTTPS
+
+FTP / SFTP
+
+SMTP / POP3 / IMAP
+
+DNS
+
+DHCP
+
+SNMP
+
+SMB
+
+SSH / Telnet
+
+NTP
+
+🔹 5️⃣ Ports & Services (Recon Goldmine)
+
+Well-known ports (0–1023)
+
+Registered & Dynamic ports
+
+Service banners
+
+Port scanning concepts
+
+Open vs Filtered vs Closed ports
+
+🔹 6️⃣ DNS Deep Dive (Used in Attacks)
+
+DNS record types: A, AAAA, MX, TXT, CNAME, NS
+
+Recursive vs Iterative queries
+
+DNS zone transfer
+
+DNS tunneling
+
+DNS spoofing / poisoning
+
+🔹 7️⃣ Packet & Traffic Analysis (Hacker Vision 👁️)
+
+What is a packet?
+
+Packet structure
+
+Packet sniffing
+
+Promiscuous mode
+
+PCAP files
+
+Network traffic analysis basics
+
+🔹 8️⃣ Network Security Concepts
+
+This is where blue meets red.
+
+Firewalls (Stateful vs Stateless)
+
+IDS vs IPS
+
+DMZ
+
+Network Segmentation
+
+VLANs
+
+VPN (IPSec, SSL VPN)
+
+Zero Trust (basic idea)
+
+🔹 9️⃣ Common Network Attacks (VERY IMPORTANT)
+
+If you don’t know these, you’re blind in cybersecurity.
+
+ARP Spoofing / Poisoning
+
+Man-in-the-Middle (MITM)
+
+DNS Spoofing
+
+DHCP Starvation
+
+TCP SYN Flood
+
+UDP Flood
+
+ICMP Flood
+
+Packet Sniffing
+
+Session Hijacking
+
+Replay Attacks
+
+🔹 🔟 Web Networking Concepts (For Pentesting)
+
+HTTP methods (GET, POST, PUT, DELETE)
+
+HTTP status codes
+
+Cookies & Sessions
+
+Same-Origin Policy
+
+CORS
+
+HTTPS & SSL/TLS handshake
+
+🔹 1️⃣1️⃣ Wireless Networking (Bonus but Powerful)
+
+Wi-Fi standards (802.11 a/b/g/n/ac/ax)
+
+Encryption: WEP, WPA, WPA2, WPA3
+
+Handshake
+
+Deauthentication attack (conceptual)
+
+Evil Twin (concept)
+
+🔹 1️⃣2️⃣ Cloud & Modern Networking (Growing Importance)
+
+Virtual Networks
+
+Load Balancers
+
+Security Groups
+
+Network ACLs
+
+Basic container networking (Docker)
+
+🔹 1️⃣3️⃣ Networking Tools (Cybersecurity POV)
+
+You don’t need mastery yet — just awareness:
+
+Packet capture tools
+
+Port scanners
+
+Network mappers
+
+Traffic analyzers
