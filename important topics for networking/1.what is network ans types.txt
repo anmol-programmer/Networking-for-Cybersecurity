@@ -1,0 +1,11 @@
+Network: A network is a group of devices connected together so they can communicate 
+        and share data.
+Types of network:
+1.LAN: It is local area network.
+2.PAN: It is a personal area network.
+3.WAN: It is wide area network.
+4.MAN: It is Metropolitan area network.
+
+Types of network Architecture: There are two types of network.
+1.peer to peer
+2.client server network
